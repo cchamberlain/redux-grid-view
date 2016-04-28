@@ -1,6 +1,6 @@
 {
   "name": "redux-grid-view",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "React view components for redux-grid.",
   "main": "lib/index.js",
   "scripts": {
