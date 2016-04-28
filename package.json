@@ -35,6 +35,7 @@
   },
   "dependencies": {
     "classnames": "^2.2.4",
+    "esdoc": "^0.4.6",
     "esdoc-es7-plugin": "0.0.3",
     "object-assign": "*"
   },
